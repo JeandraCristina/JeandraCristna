@@ -2,7 +2,9 @@
 🎓Análise e Desenvolvimento de Sistemas - Universidade de Marília ✅️
 
 🎓Pós-graduação em Ciências de Dados e Inteligência Artificial - Uninter ✅️
+
 🎓Técnico em Informática para Internet - SENAI ✅️
+
 🎓Pós-graduação em Governança de TI - Gran Faculdade ⏳️
 
  <div>
