@@ -1,11 +1,8 @@
-# Jeandra
-🎓Análise e Desenvolvimento de Sistemas - Universidade de Marília ✅️
-
-🎓Pós-graduação em Ciências de Dados e Inteligência Artificial - Uninter ✅️
-
-🎓Técnico em Informática para Internet - SENAI ✅️
-
+# Jeandra Cristina da Silva Ribeiro
 🎓Pós-graduação em Governança de TI - Gran Faculdade ⏳️
+🎓Pós-graduação em Ciências de Dados e Inteligência Artificial - Uninter ✅️
+🎓Análise e Desenvolvimento de Sistemas - Universidade de Marília ✅️
+🎓Técnico em Informática para Internet - SENAI ✅️
 
  <div>
   <a href="https://github.com/rafaballerini">
