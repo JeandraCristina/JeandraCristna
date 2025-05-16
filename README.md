@@ -8,7 +8,7 @@
 🎓Técnico em Informática para Internet - SENAI ✅️
 
  <div>
-  <a href="https://github.com/jeandracristina">
+  <a href="https://github.com/JeandraCristina">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JeandraCristina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeandraCristina&layout=compact&langs_count=16&theme=dracula"/>
 </div>
